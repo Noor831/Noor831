@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noor, a student
-- 👀 I’m interested in Front-end web dev
+- 👀 I’m interested in Front-end and UI-UX design
 - 🎓 I’m pursuing my B.tech from Symbiosis International University (Entc)
 - 🌱 I’m currently learning MERN stack
 - 💞️ Interests - Listening podcast, UI designing and playing basketball
